@@ -15,12 +15,17 @@ Currently, I am deeply engaged in exploring and developing innovative projects w
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sanjana-telang/" ><img src="https://img.shields.io/badge/-Sanjana%20Telang-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/sanjanatelang"><img src="https://img.shields.io/badge/-Kaggle:%20Sanjana%20Telang-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-<a href="mailto:sanjanatelang4847@gmail.com">
-    <img src="https://img.shields.io/badge/-sanjanatelang4847%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email: sanjanatelang4847@gmail.com"/>
-</a>
+    <a href="https://www.linkedin.com/in/sanjana-telang/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-LinkedIn:%20Sanjana%20Telang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Sanjana Telang" />
+    </a>
+    <a href="https://www.kaggle.com/sanjanatelang" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Kaggle:%20Sanjana%20Telang-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle: Sanjana Telang" />
+    </a>
+    <a href="mailto:sanjanatelang4847@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Email%20Me%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: sanjanatelang4847@gmail.com" />
+    </a>
 </p>
+
 <br>
 
 ------
