@@ -2,7 +2,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
 # 🌱 **AI and ML Engineer**
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -16,10 +15,10 @@ Currently, I am deeply engaged in exploring and developing innovative projects w
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/prajwal-kanade-6700a5252" ><img src="https://img.shields.io/badge/-Prajwal%20Kanade-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/prajwalkanade"><img src="https://img.shields.io/badge/-Kaggle:%20Prajwal%20Kanade-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-<a href="mailto:kanadeprajwal24@gmail.com">
-    <img src="https://img.shields.io/badge/-kanadeprajwal24%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email: kanadeprajwal24@gmail.com"/>
+<a href="https://www.linkedin.com/in/sanjana-telang/" ><img src="https://img.shields.io/badge/-Sanjana%20Telang-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/sanjanatelang"><img src="https://img.shields.io/badge/-Kaggle:%20Sanjana%20Telang-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a href="mailto:sanjanatelang4847@gmail.com">
+    <img src="https://img.shields.io/badge/-sanjanatelang4847%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email: sanjanatelang4847@gmail.com"/>
 </a>
 </p>
 <br>
@@ -59,7 +58,6 @@ Currently, I am deeply engaged in exploring and developing innovative projects w
 
 
 ------
-
 
 <div style="background: linear-gradient(135deg, #e0f7fa, #f0f4c3); border-radius: 15px; padding: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 700px; margin: auto;">
     <h2 style="color: #00796b; text-align: center; font-size: 28px; margin-bottom: 20px;">
