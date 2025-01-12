@@ -31,7 +31,7 @@ Currently, I am deeply engaged in exploring and developing innovative projects w
 
 <div align="center">
     
-### ⚙️ 💻 **Tech Stack:**
+### ⚙️🛠️ **Tech Stack:**
 
 </div>
 
